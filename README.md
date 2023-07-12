@@ -24,4 +24,5 @@ Mobile Application Vulnerabilities<br>
  <br>
 <br> 
 Practice <br>
-Capture the Flag (CTF) in computer security is an exercise in which "flags" are secretly hidden in purposefully-vulnerable programs or websites. Competitors steal flags either from other competitors (attack/defense-style CTFs) or from the organizers (jeopardy-style challenges). You can find the list of websites to practice CTF in Resources section.
+You can make practice on vulnerability Computers/Websites and servers if you don't know how to build them and hack them contact on instagram
+@alvi._.1 to make Servers/Websites with vulnerability so you can practice hacking on them.
