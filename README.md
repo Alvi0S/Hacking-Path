@@ -24,5 +24,5 @@ Mobile Application Vulnerabilities<br>
  <br>
 <br> 
 Practice <br>
-You can make practice on vulnerability Computers/Websites and servers if you don't know how to build them and hack them contact on instagram
-@alvi._.1 to make Servers/Websites with vulnerability so you can practice hacking on them.
+You can make practice on vulnerability Computers/Websites and servers if you don't know how to build them and hack them contact on 
+discord: alvi0x0 to make Servers/Websites with vulnerability so you can practice hacking on them.
